@@ -1,0 +1,20 @@
+.test {
+  background: #000;
+  /* Hintergrundfarbe: schwarz */
+  color: #fff;
+  /* Text-Farbe: weiß */
+  margin: 20px;
+  /* Außenabstände: 20px – margin-left/margin-right/... */
+  padding: 20px;
+  /* Innenabstände: 20px - padding-left/padding-right/... */
+  width: 600px;
+  /* Breite: 600px */
+  height: 400px;
+  /* Höhe: 400px */
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  /* Schriftart: Helvetica */
+  font-size: 30px;
+  /* Schriftgröße: 30px */
+  border: 5px solid #000;
+  /* Rahmen: 5px durchgezogen schwarz – border-left/border-right/ ... */
+}
